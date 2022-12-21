@@ -1,7 +1,13 @@
 ## React 수업 (22.12.22 ~ 22.12.23) 👼
+
     React.js로 Open API이용한 영화 사이트 만들기
 
-### 사전 준비 
+### 사전 개념정리
+
+1. ES6 문법 공부
+
+### 사전 준비
+
     https://www.omdbapi.com/ 에서 API KEY 발급 받기
 
 ### React 설치 및 실행

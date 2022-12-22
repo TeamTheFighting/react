@@ -18,8 +18,8 @@
 
 ### 필요한 라이브러리
 
-- yarn add redux react-redux @reduxjs/toolkit
-- yarn add react-router-dom
+- npm i redux react-redux @reduxjs/toolkit
+- npm i react-router-dom
 
 ### JSX(JavaScript Syntax Extension)
 

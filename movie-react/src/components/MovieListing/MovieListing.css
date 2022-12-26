@@ -1,0 +1,13 @@
+@import '../../common/colors.css';
+
+.movie-list,
+.show-list {
+  margin: 20px 0px;
+}
+
+.movie-list,
+.show-list > h2 {
+  color: var(--font-secondary);
+  margin-bottom: 10px;
+  font-weight: 400;
+}

@@ -6,7 +6,7 @@
 }
 
 .movie-list,
-.show-list > h2 {
+.show-list h2 {
   color: var(--font-secondary);
   margin-bottom: 10px;
   font-weight: 400;

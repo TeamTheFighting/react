@@ -28,7 +28,7 @@
 .card-info {
   color: var(--font-primary);
 }
-.card-info > h4 {
+.card-info h4 {
   font-size: 22px;
   font-weight: 400;
   margin-bottom: 5px;

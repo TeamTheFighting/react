@@ -19,7 +19,6 @@ const Home = () => {
   // deps 파라미터를 생략한다면, 컴포넌트가 리렌더링 될 때마다 호출.
   return (
     <div>
-      <div className="banner-img">HOME</div>;
       <MovieListing />;
     </div>
   );

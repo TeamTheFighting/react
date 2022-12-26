@@ -2,11 +2,7 @@ import React from 'react';
 import notFound from '../../images/404.jpg';
 
 const PageNotFound = () => {
-  return (
-    <div>
-      <img src={notFound} alt="404" />
-    </div>
-  );
+  return <div>PageNotFound</div>;
 };
 
 export default PageNotFound;

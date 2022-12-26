@@ -14,7 +14,7 @@
   color: var(--font-secondary);
   display: flex;
 }
-.movie-rating > span {
+.movie-rating span {
   margin-right: 20px;
 }
 
@@ -35,7 +35,7 @@
   display: inline-block;
 }
 
-.movie-info > div span {
+.movie-info div span {
   color: var(--font-secondary);
 }
 
